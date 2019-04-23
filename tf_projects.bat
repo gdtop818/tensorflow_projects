@@ -1,5 +1,5 @@
 echo 
-W:
-cd W:\tensorflow_projects
+H:
+cd H:\tensorflow_projects
 jupyter notebook
 enter

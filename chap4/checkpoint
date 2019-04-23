@@ -1,0 +1,2 @@
+model_checkpoint_path: "H:/tensorflow_projects/chap4/linearmodel.ckpt-18"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap4/linearmodel.ckpt-18"
