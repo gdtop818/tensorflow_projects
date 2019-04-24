@@ -1,0 +1,6 @@
+model_checkpoint_path: "H:/tensorflow_projects/chap4/time.ckpt\\model.ckpt-258945"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap4/time.ckpt\\model.ckpt-254777"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap4/time.ckpt\\model.ckpt-255733"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap4/time.ckpt\\model.ckpt-256704"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap4/time.ckpt\\model.ckpt-257740"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap4/time.ckpt\\model.ckpt-258945"

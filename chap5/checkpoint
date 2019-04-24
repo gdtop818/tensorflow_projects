@@ -1,0 +1,2 @@
+model_checkpoint_path: "H:/tensorflow_projects/chap5/mnist_model.ckpt"
+all_model_checkpoint_paths: "H:/tensorflow_projects/chap5/mnist_model.ckpt"
