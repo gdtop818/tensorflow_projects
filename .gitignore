@@ -126,3 +126,5 @@ dmypy.json
 *.gz
 *.bin
 *.zip
+*.tgz
+*.pdf
