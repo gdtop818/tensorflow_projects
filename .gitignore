@@ -128,3 +128,7 @@ dmypy.json
 *.zip
 *.tgz
 *.pdf
+*.lst
+*.wav
+*.txt
+*.data
